@@ -12,7 +12,7 @@ The database models:
 
 ## 🛠 Technologies
 - MySQL
-- Draw.io (for ERD)
+- MySQL Workbench (to extract the ERD Diagram)
 
 ## 📁 Tables Created
 - `book`
@@ -65,11 +65,12 @@ GRANT read_only TO 'bookstore_user'@'localhost';
 ```
 
 ## 🧩 ER Diagram
-The ERD is available in the repository as an image and can be opened in Draw.io for editing.
+The ERD is available in the repository as an image.
 
 ## ✅ How to Run
 1. Import `bookstore_schema.sql` into your MySQL instance.
-2. (Optional) Load test data.
-3. Run queries or integrate with a backend.
+2. Run `sampledata.sql` to load test data.
+3. Run `Bookies,roles.sql` to add user roles to the database.
+4. Extract useful insights or integrate with a backend of your choosing.
 
 ---
