@@ -70,7 +70,7 @@ The ERD is available in the repository as an image.
 ## ✅ How to Run
 1. Import `bookstore_schema.sql` into your MySQL instance.
 2. Run `sampledata.sql` to load test data.
-3. Run `Bookies,roles.sql` to add user roles to the database.
+3. Run `Roles.sql.sql` to add user roles to the database.
 4. Extract useful insights or integrate with a backend of your choosing.
 
 ---
