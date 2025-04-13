@@ -73,6 +73,3 @@ The ERD is available in the repository as an image and can be opened in Draw.io 
 3. Run queries or integrate with a backend.
 
 ---
-
-**Deadline:** 13/04/2025  
-**Group Submission:** Upload this repo to GitHub and submit the repo link.
